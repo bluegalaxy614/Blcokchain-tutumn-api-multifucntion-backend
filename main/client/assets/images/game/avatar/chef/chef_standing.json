@@ -1,0 +1,63 @@
+{"frames": {
+
+"chef_standing1.png":
+{
+	"frame": {"x":0,"y":0,"w":357,"h":577},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":357,"h":577},
+	"sourceSize": {"w":357,"h":577}
+},
+"chef_standing2.png":
+{
+	"frame": {"x":357,"y":0,"w":357,"h":577},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":357,"h":577},
+	"sourceSize": {"w":357,"h":577}
+},
+"chef_standing3.png":
+{
+	"frame": {"x":0,"y":577,"w":357,"h":577},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":357,"h":577},
+	"sourceSize": {"w":357,"h":577}
+},
+"chef_standing4.png":
+{
+	"frame": {"x":357,"y":577,"w":357,"h":577},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":357,"h":577},
+	"sourceSize": {"w":357,"h":577}
+},
+"chef_standing5.png":
+{
+	"frame": {"x":0,"y":1154,"w":357,"h":577},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":357,"h":577},
+	"sourceSize": {"w":357,"h":577}
+},
+"chef_standing6.png":
+{
+	"frame": {"x":357,"y":1154,"w":357,"h":577},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":357,"h":577},
+	"sourceSize": {"w":357,"h":577}
+}},
+"animations": {
+	"chef_standing": ["chef_standing1.png","chef_standing2.png","chef_standing3.png","chef_standing4.png","chef_standing5.png","chef_standing6.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "chef_standing.png",
+	"format": "RGBA8888",
+	"size": {"w":714,"h":1731},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:21f4e56878258803b56c52386fd590d4:06b7887b1d9c4dcdc2796a2af0edb318:85d6217f53e2a36bce0f49ef03557d80$"
+}
+}

@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Jost&display=swap');
+
+a {
+    text-decoration: none !important;
+}
+
+.react-confirm-alert-button-group button:first-child {
+    background: #fcd535 !important;
+    color: black;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.breadCamp::before {
+    content: '>';
+    padding: 0px 5px;
+}
+
+.w50 {
+    width: 50px !important;
+}
+
+.ml-50 {
+    margin-left: 50px !important;
+}
+
+.loading-container {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(255, 255, 255, 0.5);
+    z-index: 9999;
+}
+
+p {
+    margin-bottom: 0px !important;
+}
+
+.WinValue {
+    color: blue !important;
+}
+
+.LoseValue {
+    color: red !important;
+}
+
+.justify-right {
+    justify-content: right;
+}
+
+.react-toast-notifications__container,
+.css-nvf14r-ToastContainer {
+    z-index: 1000000 !important
+}
+
+input[type="password"] {
+    -webkit-text-security:disc;
+}
